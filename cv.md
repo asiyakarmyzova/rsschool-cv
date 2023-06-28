@@ -1,7 +1,7 @@
 
 # ASIYA KARMYZOVA 
 ## Contacts
-* email: sepol31@gmail.com
+*  sepol31@gmail.com
 * [Discord](asiyakarmyzova)
 * [LinkedIn](https://www.linkedin.com/in/asiya-karmyzova-461a83205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BikOev1xpR1%2B2WXTYZRfaDw%3D%3D)
 ### About me
