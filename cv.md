@@ -19,7 +19,7 @@ I adore gaining new knowlege and skills and I belive that this will lead me thro
 
 ##### Education
 
-Minsk State Linguistic Univercity
+Minsk State Linguistic University
 
 ###### Languages
 
