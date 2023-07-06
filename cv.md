@@ -13,9 +13,9 @@ I adore gaining new knowlege and skills and I belive that this will lead me thro
 
 #### Skills
 
-+CSS
-+HTML5
-+Git
++ CSS
++ HTML5
++ Git
 
 ##### Education
 
@@ -23,5 +23,5 @@ Minsk State Linguistic University
 
 ###### Languages
 
--Russian - native
--English -B1
+- Russian - native
+- English -B1
